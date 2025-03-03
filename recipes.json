@@ -1,0 +1,303 @@
+[
+  {
+    "Name": "Spaghetti Carbonara",
+    "Difficulty": "Medium",
+    "Ingredients": "Spaghetti, eggs, parmesan cheese, pancetta, garlic, salt, pepper",
+    "Steps": "Boil spaghetti until al dente. In a separate pan, cook pancetta until crispy. In a bowl, whisk eggs and parmesan. Drain pasta, saving some water. Quickly mix pasta with egg mixture and pancetta, adding reserved water if needed to make it creamy. Season with salt and pepper."
+  },
+  {
+    "Name": "Grilled Cheese Sandwich",
+    "Difficulty": "Easy",
+    "Ingredients": "Bread, butter, cheddar cheese",
+    "Steps": "Butter one side of each bread slice. Place cheese between the unbuttered sides. Heat a pan on medium and cook sandwich on both sides until golden brown and cheese is melted."
+  },
+  {
+    "Name": "Beef Wellington",
+    "Difficulty": "Hard",
+    "Ingredients": "Beef tenderloin, puff pastry, mushrooms, prosciutto, egg yolk, salt, pepper, mustard",
+    "Steps": "Season and sear the beef. Finely chop and cook mushrooms to remove moisture. Wrap beef in prosciutto and mushroom mixture. Encase in puff pastry, brush with egg yolk, and bake until golden and internal temperature is reached. Let rest before slicing."
+  },
+  {
+    "Name": "Chicken Stir Fry",
+    "Difficulty": "Easy",
+    "Ingredients": "Chicken breast, soy sauce, garlic, ginger, bell peppers, broccoli, olive oil, salt, pepper",
+    "Steps": "Slice chicken and vegetables. Heat oil in a pan and cook garlic and ginger. Add chicken and stir until cooked through. Toss in vegetables and stir-fry until tender. Add soy sauce, season with salt and pepper, and mix well."
+  },
+  {
+    "Name": "Vegetable Curry",
+    "Difficulty": "Medium",
+    "Ingredients": "Potatoes, carrots, onions, curry powder, coconut milk, garlic, salt, pepper, olive oil",
+    "Steps": "Chop vegetables evenly. Sauté onions and garlic in olive oil, then add curry powder. Add vegetables and coconut milk, and simmer until vegetables are soft. Season with salt and pepper."
+  },
+  {
+    "Name": "Pancakes",
+    "Difficulty": "Easy",
+    "Ingredients": "Flour, milk, eggs, baking powder, sugar, salt, butter",
+    "Steps": "Mix flour, baking powder, sugar, and salt. Whisk in milk and eggs until smooth. Heat a buttered pan and pour batter to form pancakes. Cook until bubbles form on the surface, then flip and cook until golden. Serve warm with syrup."
+  },
+  {
+    "Name": "Omelette",
+    "Difficulty": "Easy",
+    "Ingredients": "Eggs, milk, salt, pepper, butter, cheese, vegetables",
+    "Steps": "Beat eggs with milk, salt, and pepper. Melt butter in a pan over medium heat and pour in the egg mixture. Add cheese and chopped vegetables. Cook until set and fold the omelette in half. Serve immediately."
+  },
+  {
+    "Name": "Caesar Salad",
+    "Difficulty": "Easy",
+    "Ingredients": "Romaine lettuce, croutons, parmesan cheese, Caesar dressing, anchovies",
+    "Steps": "Chop romaine lettuce and toss with Caesar dressing. Add croutons and sprinkle with parmesan cheese and anchovies. Serve chilled."
+  },
+  {
+    "Name": "Tomato Soup",
+    "Difficulty": "Easy",
+    "Ingredients": "Tomatoes, onion, garlic, vegetable broth, basil, salt, pepper, olive oil",
+    "Steps": "Sauté chopped onion and garlic in olive oil until translucent. Add tomatoes and vegetable broth and simmer until tomatoes break down. Blend until smooth, then season with basil, salt, and pepper."
+  },
+  {
+    "Name": "Fish Tacos",
+    "Difficulty": "Medium",
+    "Ingredients": "Fish fillets, taco shells, cabbage slaw, lime, sour cream, chili powder, salt, pepper",
+    "Steps": "Season fish fillets with chili powder, salt, and pepper, then cook until flaky. Assemble tacos by placing fish in taco shells, topping with cabbage slaw, a squeeze of lime, and a drizzle of sour cream."
+  },
+  {
+    "Name": "Mushroom Risotto",
+    "Difficulty": "Hard",
+    "Ingredients": "Arborio rice, mushrooms, onion, garlic, white wine, vegetable broth, parmesan cheese, butter, salt, pepper",
+    "Steps": "Sauté chopped onion, garlic, and mushrooms in butter until softened. Add Arborio rice and toast lightly. Pour in white wine until absorbed, then gradually add heated broth while stirring continuously. Finish by stirring in parmesan cheese and seasoning with salt and pepper."
+  },
+  {
+    "Name": "Baked Ziti",
+    "Difficulty": "Medium",
+    "Ingredients": "Ziti pasta, tomato sauce, ricotta cheese, mozzarella, parmesan, ground beef, garlic, basil, salt, pepper",
+    "Steps": "Cook ziti pasta until al dente. Brown ground beef with garlic, then mix with tomato sauce. Combine pasta with meat sauce and cheeses. Transfer to a baking dish, top with extra mozzarella, and bake until bubbly and golden. Garnish with basil."
+  },
+  {
+    "Name": "Lamb Curry",
+    "Difficulty": "Hard",
+    "Ingredients": "Lamb, onions, garlic, ginger, tomatoes, curry powder, coconut milk, cumin, coriander, salt, pepper",
+    "Steps": "Brown lamb pieces in a heavy pan. Remove and sauté onions, garlic, and ginger until soft. Stir in curry powder, cumin, coriander, and tomatoes. Return lamb to the pan, pour in coconut milk, and simmer until the lamb is tender. Adjust seasoning to taste."
+  },
+  {
+    "Name": "Shrimp Scampi",
+    "Difficulty": "Medium",
+    "Ingredients": "Shrimp, garlic, butter, olive oil, lemon, white wine, parsley, salt, pepper, spaghetti",
+    "Steps": "Heat olive oil and butter in a pan, then add garlic until fragrant. Cook shrimp until pink, then add lemon juice and a splash of white wine. Toss with cooked spaghetti and garnish with chopped parsley. Season with salt and pepper."
+  },
+  {
+    "Name": "Quiche Lorraine",
+    "Difficulty": "Hard",
+    "Ingredients": "Pie crust, eggs, heavy cream, bacon, swiss cheese, onion, salt, pepper, nutmeg",
+    "Steps": "Prebake the pie crust until lightly golden. Sauté bacon and onions until crisp. Whisk together eggs, heavy cream, salt, pepper, and a pinch of nutmeg. Spread bacon, onions, and swiss cheese in the crust, pour the egg mixture over, and bake until the quiche is set."
+  },
+  {
+    "Name": "Ratatouille",
+    "Difficulty": "Medium",
+    "Ingredients": "Eggplant, zucchini, bell peppers, tomatoes, onion, garlic, olive oil, basil, salt, pepper",
+    "Steps": "Cut all vegetables into uniform pieces. Sauté onions and garlic in olive oil until soft. Add eggplant, zucchini, bell peppers, and tomatoes, and simmer until all vegetables are tender. Season with basil, salt, and pepper."
+  },
+  {
+    "Name": "Tiramisu",
+    "Difficulty": "Hard",
+    "Ingredients": "Ladyfingers, mascarpone cheese, eggs, sugar, espresso, cocoa powder, rum, salt",
+    "Steps": "Separate egg yolks and whites. Whisk yolks with sugar, then mix in mascarpone. Beat egg whites until stiff and fold into the mixture. Dip ladyfingers briefly in espresso mixed with rum, layer them with the mascarpone cream, dust with cocoa powder, and refrigerate to set."
+  },
+  {
+    "Name": "French Toast",
+    "Difficulty": "Easy",
+    "Ingredients": "Bread, eggs, milk, cinnamon, vanilla extract, butter, maple syrup",
+    "Steps": "Whisk together eggs, milk, cinnamon, and vanilla. Dip bread slices into the mixture. Fry in a buttered pan until golden on both sides. Serve with a drizzle of maple syrup."
+  },
+  {
+    "Name": "Chicken Alfredo",
+    "Difficulty": "Medium",
+    "Ingredients": "Fettuccine, chicken breast, heavy cream, parmesan cheese, garlic, butter, salt, pepper",
+    "Steps": "Cook fettuccine until al dente. Sauté chicken pieces in butter with garlic until fully cooked. Pour in heavy cream and simmer, then stir in parmesan until melted. Toss the pasta in the sauce and season with salt and pepper."
+  },
+  {
+    "Name": "Beef Stroganoff",
+    "Difficulty": "Medium",
+    "Ingredients": "Beef strips, mushrooms, onions, sour cream, beef broth, mustard, butter, salt, pepper, egg noodles",
+    "Steps": "Sear beef strips and set aside. In the same pan, sauté onions and mushrooms in butter. Return beef to the pan, add beef broth and a spoonful of mustard, and simmer briefly. Stir in sour cream, then serve over cooked egg noodles."
+  },
+  {
+    "Name": "Egg Fried Rice",
+    "Difficulty": "Easy",
+    "Ingredients": "Rice, eggs, peas, carrots, soy sauce, green onions, oil, salt, pepper",
+    "Steps": "Scramble eggs in a hot pan with oil and set aside. Stir-fry diced carrots and peas, then add cooked rice and soy sauce. Mix in the scrambled eggs and chopped green onions, and season with salt and pepper."
+  },
+  {
+    "Name": "Chili Con Carne",
+    "Difficulty": "Medium",
+    "Ingredients": "Ground beef, kidney beans, tomatoes, onion, garlic, chili powder, cumin, salt, pepper, olive oil",
+    "Steps": "Brown ground beef with chopped onion and garlic in olive oil. Stir in tomatoes, kidney beans, chili powder, and cumin. Simmer until flavors meld together, and season with salt and pepper."
+  },
+  {
+    "Name": "Falafel Wrap",
+    "Difficulty": "Easy",
+    "Ingredients": "Chickpeas, garlic, onion, parsley, cumin, coriander, flour, salt, pepper, pita bread, tahini sauce",
+    "Steps": "Blend chickpeas with garlic, onion, parsley, cumin, and coriander until coarse. Mix in flour, salt, and pepper, form patties and fry until golden. Stuff pita bread with falafel and drizzle with tahini sauce."
+  },
+  {
+    "Name": "Sushi Rolls",
+    "Difficulty": "Hard",
+    "Ingredients": "Sushi rice, nori, fish or vegetables, rice vinegar, sugar, salt, soy sauce, wasabi",
+    "Steps": "Prepare sushi rice by mixing with a vinegar, sugar, and salt solution. Lay a thin layer of rice on nori, add your chosen fillings, and roll tightly. Slice the roll and serve with soy sauce and a dab of wasabi."
+  },
+  {
+    "Name": "Pad Thai",
+    "Difficulty": "Medium",
+    "Ingredients": "Rice noodles, shrimp or chicken, eggs, bean sprouts, peanuts, tamarind paste, fish sauce, garlic, lime, oil",
+    "Steps": "Soak rice noodles until soft. Stir-fry your protein with garlic, then add beaten eggs and scramble. Mix in noodles, tamarind paste, and fish sauce. Toss in bean sprouts, garnish with peanuts and a squeeze of lime."
+  },
+  {
+    "Name": "Gazpacho",
+    "Difficulty": "Easy",
+    "Ingredients": "Tomatoes, cucumber, red bell pepper, red onion, garlic, olive oil, red wine vinegar, salt, pepper",
+    "Steps": "Blend tomatoes, cucumber, bell pepper, red onion, and garlic with olive oil until smooth. Chill in the refrigerator for several hours. Stir in red wine vinegar and season with salt and pepper before serving."
+  },
+  {
+    "Name": "Chicken Pot Pie",
+    "Difficulty": "Medium",
+    "Ingredients": "Chicken, carrots, peas, potatoes, onions, chicken broth, flour, butter, pie crust, salt, pepper, thyme",
+    "Steps": "Cook diced chicken with carrots, peas, potatoes, and onions until tender. Thicken chicken broth with a flour and butter roux. Fill a pie crust with the mixture, cover with another crust, seal the edges, and bake until golden."
+  },
+  {
+    "Name": "Stuffed Bell Peppers",
+    "Difficulty": "Medium",
+    "Ingredients": "Bell peppers, ground beef, rice, tomatoes, onion, garlic, cheese, salt, pepper, olive oil",
+    "Steps": "Halve and deseed bell peppers. Brown ground beef with onion and garlic, then mix with cooked rice and tomatoes. Stuff the peppers with the mixture, top with cheese, and bake until peppers are tender."
+  },
+  {
+    "Name": "Pesto Pasta",
+    "Difficulty": "Easy",
+    "Ingredients": "Pasta, basil, pine nuts, garlic, parmesan cheese, olive oil, salt, pepper",
+    "Steps": "Cook pasta until al dente. In a blender, combine basil, pine nuts, garlic, parmesan, olive oil, salt, and pepper to create pesto. Toss the pasta with the pesto sauce and serve."
+  },
+  {
+    "Name": "Baked Salmon",
+    "Difficulty": "Easy",
+    "Ingredients": "Salmon fillets, lemon, dill, olive oil, salt, pepper",
+    "Steps": "Place salmon fillets on a baking tray. Drizzle with olive oil and lemon juice, sprinkle with dill, salt, and pepper. Bake until the salmon flakes easily when tested with a fork."
+  },
+  {
+    "Name": "Meatloaf",
+    "Difficulty": "Medium",
+    "Ingredients": "Ground beef, breadcrumbs, eggs, onion, garlic, ketchup, Worcestershire sauce, salt, pepper",
+    "Steps": "Mix ground beef with breadcrumbs, beaten eggs, chopped onion, garlic, ketchup, and Worcestershire sauce. Shape into a loaf, place in a baking dish, and bake until cooked through. Let rest before slicing."
+  },
+  {
+    "Name": "Enchiladas",
+    "Difficulty": "Medium",
+    "Ingredients": "Tortillas, shredded chicken, enchilada sauce, cheese, onions, bell peppers, garlic, salt, pepper",
+    "Steps": "Fill tortillas with shredded chicken, sautéed onions, and bell peppers. Roll up and place in a baking dish. Cover with enchilada sauce and cheese, then bake until the cheese is melted and bubbly."
+  },
+  {
+    "Name": "Gnocchi with Tomato Sauce",
+    "Difficulty": "Medium",
+    "Ingredients": "Potato gnocchi, tomatoes, garlic, olive oil, basil, salt, pepper, parmesan cheese",
+    "Steps": "Boil gnocchi until they float to the surface. Meanwhile, sauté garlic in olive oil, add chopped tomatoes and basil to simmer into a sauce. Toss the gnocchi with the sauce and top with grated parmesan."
+  },
+  {
+    "Name": "Burrito Bowl",
+    "Difficulty": "Easy",
+    "Ingredients": "Rice, black beans, corn, chicken or beef, salsa, avocado, lettuce, cheese, lime, salt, pepper",
+    "Steps": "Prepare rice and season black beans. Grill your choice of meat and chop vegetables. Assemble a bowl with rice, meat, beans, corn, salsa, avocado, and cheese. Top with a squeeze of lime and serve."
+  },
+  {
+    "Name": "Paella",
+    "Difficulty": "Hard",
+    "Ingredients": "Rice, chicken, shrimp, mussels, chorizo, bell peppers, tomatoes, saffron, peas, onion, garlic, chicken broth, olive oil, salt, pepper",
+    "Steps": "Sauté chicken and chorizo in olive oil until browned. Add onion, garlic, and bell peppers, then stir in rice and saffron. Pour in chicken broth, arrange seafood on top, and simmer until the rice is cooked. Stir in peas and serve."
+  },
+  {
+    "Name": "Ramen",
+    "Difficulty": "Hard",
+    "Ingredients": "Ramen noodles, pork or chicken broth, soy sauce, miso paste, garlic, ginger, soft boiled eggs, green onions, mushrooms, seaweed, salt",
+    "Steps": "Prepare a rich broth with soy sauce, miso paste, garlic, and ginger. Cook ramen noodles separately and add to the broth along with mushrooms and seaweed. Top with soft boiled eggs and green onions before serving."
+  },
+  {
+    "Name": "Clam Chowder",
+    "Difficulty": "Medium",
+    "Ingredients": "Clams, potatoes, onion, celery, bacon, cream, chicken broth, butter, salt, pepper, thyme",
+    "Steps": "Cook bacon until crispy and remove from the pan. Sauté diced onion, celery, and potatoes in the bacon fat. Add chicken broth and clams, simmer until potatoes are tender. Stir in cream, season with salt, pepper, and thyme, then top with crumbled bacon."
+  },
+  {
+    "Name": "BLT Sandwich",
+    "Difficulty": "Easy",
+    "Ingredients": "Bread, bacon, lettuce, tomato, mayonnaise, salt, pepper",
+    "Steps": "Cook bacon until crisp. Toast the bread slices and spread mayonnaise on one side. Layer lettuce, tomato slices, and bacon between the bread. Season with salt and pepper, then serve."
+  },
+  {
+    "Name": "Mac and Cheese",
+    "Difficulty": "Easy",
+    "Ingredients": "Pasta, cheddar cheese, milk, butter, flour, salt, pepper, breadcrumbs",
+    "Steps": "Cook pasta until al dente. Create a roux with butter and flour, then whisk in milk. Melt in cheddar cheese to form a sauce, and mix with the pasta. Top with breadcrumbs and bake until golden and bubbly."
+  },
+  {
+    "Name": "Shepherd's Pie",
+    "Difficulty": "Medium",
+    "Ingredients": "Ground lamb or beef, carrots, peas, onion, garlic, tomato paste, Worcestershire sauce, mashed potatoes, salt, pepper",
+    "Steps": "Sauté ground meat with diced onion, garlic, carrots, and peas. Stir in tomato paste and Worcestershire sauce. Transfer to a baking dish, top with a layer of mashed potatoes, and bake until the top is lightly browned."
+  },
+  {
+    "Name": "Fajitas",
+    "Difficulty": "Easy",
+    "Ingredients": "Chicken or beef, bell peppers, onions, lime, fajita seasoning, tortillas, oil, salt, pepper",
+    "Steps": "Slice the meat and vegetables into strips. Sauté in oil with fajita seasoning until cooked through. Serve hot in warmed tortillas with a squeeze of lime."
+  },
+  {
+    "Name": "Eggplant Parmesan",
+    "Difficulty": "Medium",
+    "Ingredients": "Eggplant, tomato sauce, mozzarella, parmesan, breadcrumbs, eggs, basil, olive oil, salt, pepper",
+    "Steps": "Slice eggplant and dip in beaten eggs, then coat with breadcrumbs. Fry until golden. Layer fried eggplant in a dish with tomato sauce and cheeses, then bake until the cheese melts and the dish is bubbly. Garnish with fresh basil."
+  },
+  {
+    "Name": "Prawn Curry",
+    "Difficulty": "Medium",
+    "Ingredients": "Prawns, coconut milk, curry paste, garlic, ginger, onion, tomatoes, cilantro, salt, pepper, oil",
+    "Steps": "Sauté chopped onion, garlic, and ginger in oil until fragrant. Stir in curry paste and diced tomatoes, then add prawns and coconut milk. Simmer until prawns are cooked through and garnish with chopped cilantro."
+  },
+  {
+    "Name": "Chocolate Cake",
+    "Difficulty": "Hard",
+    "Ingredients": "Flour, cocoa powder, sugar, eggs, butter, baking powder, milk, vanilla extract, salt, chocolate frosting",
+    "Steps": "Mix together dry ingredients. Beat eggs and butter, then combine with milk and vanilla extract. Gradually mix in the dry ingredients until smooth. Pour into a greased pan and bake until a toothpick comes out clean. Let cool and frost with chocolate frosting."
+  },
+  {
+    "Name": "Banana Bread",
+    "Difficulty": "Easy",
+    "Ingredients": "Bananas, flour, sugar, eggs, butter, baking soda, vanilla extract, salt",
+    "Steps": "Mash ripe bananas and mix with melted butter. Stir in sugar, beaten eggs, and vanilla extract. Fold in flour, baking soda, and salt until just combined. Pour into a loaf pan and bake until a toothpick inserted in the center comes out clean."
+  },
+  {
+    "Name": "Lasagna",
+    "Difficulty": "Hard",
+    "Ingredients": "Lasagna noodles, ground beef, ricotta cheese, mozzarella, parmesan, tomato sauce, garlic, onion, basil, salt, pepper",
+    "Steps": "Cook lasagna noodles and brown ground beef with garlic and onion. Layer noodles with meat sauce, ricotta, mozzarella, and parmesan in a baking dish. Repeat layers and finish with a top layer of cheese. Bake until bubbly and golden on top."
+  },
+  {
+    "Name": "Chicken Noodle Soup",
+    "Difficulty": "Easy",
+    "Ingredients": "Chicken, egg noodles, carrots, celery, onion, garlic, chicken broth, salt, pepper, thyme",
+    "Steps": "Simmer chicken with chopped vegetables and chicken broth until tender. Remove chicken to shred, then return it to the pot along with egg noodles. Cook until noodles are tender, and season with salt, pepper, and thyme."
+  },
+  {
+    "Name": "Waffles",
+    "Difficulty": "Easy",
+    "Ingredients": "Flour, eggs, milk, baking powder, sugar, salt, melted butter, vanilla extract",
+    "Steps": "Mix dry ingredients in one bowl and wet ingredients in another. Combine both mixtures until smooth. Pour batter into a preheated waffle iron and cook until waffles are golden and crisp."
+  },
+  {
+    "Name": "Caprese Salad",
+    "Difficulty": "Easy",
+    "Ingredients": "Tomatoes, fresh mozzarella, basil, olive oil, balsamic vinegar, salt, pepper",
+    "Steps": "Slice tomatoes and fresh mozzarella. Arrange on a plate alternating with basil leaves. Drizzle with olive oil and balsamic vinegar, and season with salt and pepper before serving."
+  },
+  {
+  "Name": "Jelly Filled Donut",
+  "Difficulty": "Medium",
+  "Ingredients": "2 cups all-purpose flour, 2 tbsp sugar, 1 packet active dry yeast, 1/2 cup warm milk, 1/4 cup melted butter, 1/4 tsp salt, 1 large egg, 1 cup jelly or jam (your choice), vegetable oil for frying, powdered sugar for dusting",
+  "Steps": "1. In a small bowl, combine warm milk, sugar, and yeast. Let it sit for 5-10 minutes until frothy. 2. In a larger bowl, mix flour, salt, and melted butter. Add the yeast mixture and the egg, and stir to form a dough. 3. Knead the dough on a floured surface for about 5-7 minutes, then place it in a greased bowl. Cover and let it rise for 1-2 hours until doubled in size. 4. Punch down the dough, then roll it out to about 1/2-inch thickness. Cut circles using a cookie cutter or glass. 5. Heat oil in a deep fryer or large pot to 350°F (175°C). Fry the donuts in batches, about 2-3 minutes per side, until golden brown. 6. Let the donuts cool on a paper towel-lined plate. 7. Once cooled, use a piping bag or a small knife to fill each donut with jelly or jam. 8. Dust with powdered sugar before serving."
+}
+
+]
