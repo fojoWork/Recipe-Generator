@@ -18,7 +18,7 @@ function generate() {
     recipes[random]();
     
 }
-
+//Functions
 function pancake() {
   const info = {
     "Name": "Pancakes",
