@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <title>Recipe Generator</title>
+    <link id="cssLink" rel="stylesheet" href="placement.css">
+  </head>
+  <body>
+    
+    <!--Title and Generation Button-->
+    <div class="title">
+      <h1>Recipe Generator</h1>
+      <button id="recipe-generator" onclick="generate()">Generate Recipe</button>
+    </div>
+    
+    <!--The Basic Format For The Recipes-->
+    <div class="display" style="padding: 10px;">
+      <h2 id="recipe-name"></h2>
+      <h3 id="recipe-difficulty"></h3>
+      <h3 id="ingredients"></h3>
+      <p id="instructions"></p>
+      <img src="" id="image" >
+    </div>
+
+    <script src="generate.js"></script>
+  </body>
+</html>
