@@ -1,0 +1,23 @@
+body {
+    display: flex;
+}
+
+.display {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    position: relative;
+    outline-style: solid;
+    border-radius: 10px;
+}
+
+#image {
+    margin: 10px;
+    outline-style: solid;
+}
+
+.title {
+    outline-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+

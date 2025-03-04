@@ -1,0 +1,14 @@
+body {
+    display: flex;
+}
+#image {
+    margin: 10px;
+    outline-style: solid;
+}
+
+.title {
+    outline-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
