@@ -8,7 +8,7 @@ const image = document.getElementById("image");
 function after()
 {
   const link = document.querySelector("link")
-  link.href = 'Recipe-generator/placement2.css'
+  link.href = '/placement2.css'
 }
 // The function to generate/randomize results
 function generate() {
