@@ -7,15 +7,16 @@ const image = document.getElementById("image");
 
 function after()
 {
-  var link = document.getElementById('cssLink');
-  link.href = placmentAfter
+  const link = document.querySelector("link")
+  link.href = '/placement2.css'
 }
 // The function to generate/randomize results
 function generate() {
     const recipes = [pancake, spaghettiCarbonara, beefWellington, grilledCheese, chickenStirFry, vegetableCurry, omlette, caesarSalad];
-    const random = Math.floor(Math.random() * recipes.length)
+    const random = Math.floor(Math.random() * recipes.length);
     const display = document.getElementsByClassName("display");
     recipes[random]();
+    after();
     
 }
 

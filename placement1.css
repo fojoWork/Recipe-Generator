@@ -1,14 +1,32 @@
 body {
     display: flex;
+    justify-content: center;
+    text-align: center;
 }
-#image {
-    margin: 10px;
-    outline-style: solid;
-}
+
 
 .title {
     outline-style: solid;
     padding: 10px;
     border-radius: 10px;
+    position: absolute;
+    top: 40%;
+
 }
 
+.title button {
+    border-radius: 10px;
+    width: 300px;
+    background-color: white;
+    border: 0px;
+    outline-style: solid;
+}
+
+.title button:hover {
+    background-color: rgb(215, 215, 215);
+    outline-width: 5px;
+}
+
+.title h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
